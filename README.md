@@ -1,5 +1,8 @@
 # Crypto Live (Vue 3 - Tailwind CSS)
 
+## Demo
+crypto-live-sandy.vercel.app
+
 ## Coingecko API 
 ```
 https://www.coingecko.com/en/api/documentation
